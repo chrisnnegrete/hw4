@@ -9,3 +9,6 @@ Part 1:
      The third and final (10) changes the spacing and therefore the amount of lines on the canvas. For instance, changing only this (10) to (50) would cause only 8 lines to appear.
      
      
+Part 2:
+  1) The loop body runs at a rate of 60 frames per second.
+  2) On line 16, you can change the (10) to any number above 10 to increase the spacing. The second way to change the spacing would be to 
