@@ -4,7 +4,6 @@ function setup() {
 
 function draw() {
   background(255);
-  //frameRate(1);
   for (var x = 10; x < width-10; x = x + 21) {
     line(x, height/2, mouseX, mouseY);
   }
