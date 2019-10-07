@@ -12,4 +12,4 @@ Part 1:
 Part 2:
   1) The loop body runs at a rate of 60 frames per second.
   2) On line 16, you can change the (10) to any number above 10 to increase the spacing. The second way to change the spacing would be to multiply the constant by any number greater/smaller than 1. 
-  3) To increase the trail, change the value in the x.slice() to be above 50.
+  3) To increase the trail, change the value in the x.slice() and y.slice() to both be above 50.
